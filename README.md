@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a chinese independent developer,currently working on 3D pipelines.
+I’m a chinese indie developer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsusinn&show_icons=true&theme=radical)
