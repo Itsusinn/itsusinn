@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a chinese indie developer focusing on backend and desktop platforms's softwares.
+I am a chinese indie developer focusing on backend and desktop platforms' softwares.
 
 (And seeking for my ikigai now.)
 
