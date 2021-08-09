@@ -23,7 +23,7 @@ I am a chinese indie developer focusing on backend and desktop platforms' softwa
 
 ---
 <img align="left" src="https://osusig.lolicon.app/sig.php?colour=yellow&uname=itsusinn&pp=1&countryrank&removeavmargin&flagshadow&flagstroke&darkheader&darktriangles">
-<br>A osu player
+<br>An osu player
 <br>
 <br>
 <br>
