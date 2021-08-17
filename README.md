@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a chinese indie developer focusing on backend and desktop platforms' softwares.
+I am a Chinese independent developer focusing on software for backend and desktop platforms.
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=itsusinn&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"> 
 <br>
