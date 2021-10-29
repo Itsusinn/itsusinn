@@ -19,6 +19,7 @@ jobs:
           user: Itsusinn
           template: classic
           base: activity, repositories, metadata
+          repositories_affiliations: owner, collaborator 
           config_timezone: Asia/Shanghai
           plugin_habits: yes
           plugin_habits_days: 14
