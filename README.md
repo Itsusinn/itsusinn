@@ -9,4 +9,4 @@
 
 - Afdian
 
-  #### https://afdian.net/a/ihsin
+  #### https://afdian.com/a/ihsin
