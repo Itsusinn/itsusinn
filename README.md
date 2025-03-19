@@ -3,7 +3,5 @@
 
 ## Support Me
 
-- USDT-Optimism **/** USDT-Ethereum(ERC20) **/** BTC-Ethereum(ERC20) **/** ETH-Optimism **/** ETH-Ethereum(ERC20) 
-
-  #### Address `0x28860de6c914960afb25d34dc0107df8af28ac8a`
+`0xb9Ed55484Fa1c0a48707c95a5471A2f9c90Ca935`
 
